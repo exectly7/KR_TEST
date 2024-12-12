@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KR_TEST", "KR_TEST\KR_TEST.csproj", "{0A0E7D8C-A91E-4127-B77D-F1C50BBF0793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KR_TEST CONSOLE", "KR_TEST CONSOLE\KR_TEST CONSOLE.csproj", "{AF841E34-5E6F-476A-AF75-C5E074FC1284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0E7D8C-A91E-4127-B77D-F1C50BBF0793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0E7D8C-A91E-4127-B77D-F1C50BBF0793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0E7D8C-A91E-4127-B77D-F1C50BBF0793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0E7D8C-A91E-4127-B77D-F1C50BBF0793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF841E34-5E6F-476A-AF75-C5E074FC1284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF841E34-5E6F-476A-AF75-C5E074FC1284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF841E34-5E6F-476A-AF75-C5E074FC1284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF841E34-5E6F-476A-AF75-C5E074FC1284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
